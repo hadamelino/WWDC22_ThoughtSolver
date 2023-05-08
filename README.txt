@@ -1,6 +1,6 @@
 ThoughtSolver
 
-This application is a guide to overcome overthinking. There will be a sample thoughts inside the application for demo. In the summary page, you have to give each thought a solution to continue. Feel free to use these sample solutions for each thought:
+This application is a guide to overcome overthinking. There will be sample thoughts inside the application for demo. In the summary page, you have to give each thought a solution to continue. Feel free to use these sample solutions for each thought:
 
 Thought: I am feeling rather overwhelmed with all that is on my to do list
 Solution: Start doing and give yourself a break when you start to feel overwhelmed. Make a detailed time management.
